@@ -19,6 +19,6 @@ Set Playlist connection limits & expiry dates<br><br>
 
 <img width="1257" height="1183" alt="3" src="https://github.com/user-attachments/assets/ac4bb600-4bc2-4626-b684-f1d91228ed50" />
 
-<img width="1257" height="2861" alt="4" src="https://github.com/user-attachments/assets/c10be839-9768-4782-85df-843ce9e45f75" />
+<img width="1257" height="1805" alt="4" src="https://github.com/user-attachments/assets/045d10ec-331c-4fbc-a778-9bcfd94b3064" />
 
 <img width="1257" height="3406" alt="5" src="https://github.com/user-attachments/assets/a7680ef3-3218-4591-96d2-82b056489a64" />
