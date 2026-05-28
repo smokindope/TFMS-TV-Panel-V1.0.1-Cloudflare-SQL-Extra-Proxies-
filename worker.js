@@ -1127,7 +1127,7 @@ button:hover{background:#1d4ed8}
 
   <div class="card">
 
-    <h2>Proxy Creation Tutorial</h2>
+    <h2>Proxy Creation Tools</h2>
     <hr>
 
     <center>
@@ -1143,7 +1143,7 @@ button:hover{background:#1d4ed8}
       src="https://tfms.xyz/firestick/sites/proxies2.html"
       style="
         width:100%;
-        height:900px;
+        height:1050px;
         border:1px solid var(--border);
         border-radius:8px;
         background:white;
