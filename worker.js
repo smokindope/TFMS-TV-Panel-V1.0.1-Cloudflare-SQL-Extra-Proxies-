@@ -1121,58 +1121,81 @@ button:hover{background:#1d4ed8}
     </div>
   </div>
 
-  <!-- ========================================= -->
-  <!-- BLOCK 3 : PROXY TUTORIAL -->
-  <!-- ========================================= -->
+<!-- ========================================= -->
+<!-- SIDE BY SIDE : PROXY TOOLS + RESOURCES -->
+<!-- ========================================= -->
 
-  <div class="card">
+<div class="card">
 
-    <h2>Proxy Creation Tools</h2>
-    <hr>
+  <h2>Proxy Tools & Resources</h2>
+  <hr>
 
-    <center>
-      <div style="
-        font-size:14px;
-        color:#64748b;
-        margin-bottom:15px;
-      ">
+  <div
+    style="
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:20px;
+      align-items:start;
+    "
+  >
+
+    <!-- LEFT : PROXY CREATION TOOLS -->
+    <div class="settings-box" style="padding:0; overflow:hidden;">
+
+      <div
+        style="
+          padding:12px 15px;
+          border-bottom:1px solid var(--border);
+          font-weight:700;
+          background:var(--tableHead);
+        "
+      >
+        Proxy Creation Tools
       </div>
-    </center>
 
-    <iframe
-      src="https://tfms.xyz/firestick/sites/proxies2.html"
-      style="
-        width:100%;
-        height:1050px;
-        border:1px solid var(--border);
-        border-radius:8px;
-        background:white;
-      "
-      loading="lazy"
-    ></iframe>
+      <iframe
+        src="https://tfms.xyz/firestick/sites/proxies2.html"
+        style="
+          width:100%;
+          height:700px;
+          border:0;
+          background:white;
+        "
+        loading="lazy"
+      ></iframe>
+
+    </div>
+
+    <!-- RIGHT : PROXY RESOURCES -->
+    <div class="settings-box" style="padding:0; overflow:hidden;">
+
+      <div
+        style="
+          padding:12px 15px;
+          border-bottom:1px solid var(--border);
+          font-weight:700;
+          background:var(--tableHead);
+        "
+      >
+        Proxy Resources
+      </div>
+
+      <iframe
+        src="https://solitary-wind-7787.rzvaldpwgwymnhdshn.workers.dev/"
+        style="
+          width:100%;
+          height:700px;
+          border:0;
+          background:white;
+        "
+        loading="lazy"
+      ></iframe>
+
+    </div>
+
   </div>
-  <!-- ========================================= -->
-  <!-- BLOCK : CUSTOM LINK EMBED -->
-  <!-- ========================================= -->
 
-  <div class="card">
-
-    <h2>Proxy Resources</h2>
-    <hr>
-
-    <iframe
-      src="https://solitary-wind-7787.rzvaldpwgwymnhdshn.workers.dev/"
-      style="
-        width:100%;
-        height:700px;
-        border:1px solid var(--border);
-        border-radius:8px;
-        background:white;
-      "
-      loading="lazy"
-    ></iframe>
-
-  </div>
+</div>
 </div>
 </div>
 
