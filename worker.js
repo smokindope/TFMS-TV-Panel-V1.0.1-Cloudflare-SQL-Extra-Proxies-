@@ -973,7 +973,7 @@ button:hover{background:#1d4ed8}
 <body>
 <div class="container">
 <header style="display:flex; justify-content:space-between; align-items:center; gap:10px;">
-  <h1>TFMS IPTV Panel v1.0.3</h1>
+  <h1>TFMS IPTV Panel v1.0.1</h1>
 
 <div style="display:flex; gap:10px;">
 
@@ -1475,7 +1475,7 @@ button:hover{background:#1d4ed8}
 </div>
 
     <div class="xc-card blue" style="height: 400px; display:flex; flex-direction:column; padding:18px;">
-    <div class="xc-title">TFMS IPTV Panel v1.0.3</div>
+    <div class="xc-title">TFMS IPTV Panel v1.0.1</div>
     <div style="margin-top:12px; font-size:13px; line-height:1.6; opacity:0.95;">
     
     <b>What's New in This Release</b>
