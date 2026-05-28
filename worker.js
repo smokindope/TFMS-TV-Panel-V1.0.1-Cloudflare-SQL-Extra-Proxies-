@@ -973,7 +973,7 @@ button:hover{background:#1d4ed8}
 <body>
 <div class="container">
 <header style="display:flex; justify-content:space-between; align-items:center; gap:10px;">
-  <h1>TFMS IPTV Panel v1.0.1</h1>
+  <h1>TFMS IPTV Panel v1.0.3</h1>
 
 <div style="display:flex; gap:10px;">
 
@@ -1143,13 +1143,35 @@ button:hover{background:#1d4ed8}
       src="https://tfms.xyz/firestick/sites/proxies2.html"
       style="
         width:100%;
-        height:1000px;
+        height:900px;
         border:1px solid var(--border);
         border-radius:8px;
         background:white;
       "
       loading="lazy"
     ></iframe>
+  </div>
+  <!-- ========================================= -->
+  <!-- BLOCK : CUSTOM LINK EMBED -->
+  <!-- ========================================= -->
+
+  <div class="card">
+
+    <h2>Proxy Resources</h2>
+    <hr>
+
+    <iframe
+      src="https://solitary-wind-7787.rzvaldpwgwymnhdshn.workers.dev/"
+      style="
+        width:100%;
+        height:700px;
+        border:1px solid var(--border);
+        border-radius:8px;
+        background:white;
+      "
+      loading="lazy"
+    ></iframe>
+
   </div>
 </div>
 </div>
@@ -1430,7 +1452,7 @@ button:hover{background:#1d4ed8}
 </div>
 
     <div class="xc-card blue" style="height: 400px; display:flex; flex-direction:column; padding:18px;">
-    <div class="xc-title">TFMS IPTV Panel v1.0.1</div>
+    <div class="xc-title">TFMS IPTV Panel v1.0.3</div>
     <div style="margin-top:12px; font-size:13px; line-height:1.6; opacity:0.95;">
     
     <b>What's New in This Release</b>
