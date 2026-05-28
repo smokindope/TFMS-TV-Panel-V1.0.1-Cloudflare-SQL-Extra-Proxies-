@@ -1157,7 +1157,7 @@ button:hover{background:#1d4ed8}
         src="https://tfms.xyz/firestick/sites/proxies2.html"
         style="
           width:100%;
-          height:700px;
+          height:800px;
           border:0;
           background:white;
         "
@@ -1184,7 +1184,7 @@ button:hover{background:#1d4ed8}
         src="https://solitary-wind-7787.rzvaldpwgwymnhdshn.workers.dev/"
         style="
           width:100%;
-          height:700px;
+          height:800px;
           border:0;
           background:white;
         "
