@@ -1281,7 +1281,7 @@ button:hover{background:#1d4ed8}
     <h2>Get FREE Streams</h2>
     <hr>
     <iframe
-      src="https://www.tfms.xyz/firestick/sites/links.html"
+      src="https://tfms.xyz/firestick/sites/links.html"
       style="
         width:100%;
         height:600px;
