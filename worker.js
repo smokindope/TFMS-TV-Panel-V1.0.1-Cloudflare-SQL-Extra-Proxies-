@@ -1304,20 +1304,24 @@ button:hover{background:#1d4ed8}
     <div class="settings-box" style="padding:0; overflow:hidden;">
 
       <iframe
-        src="https://tfms.xyz/firestick/sites/jwplayer.html"
-        style="width:100%; height:400px; border:0;"
-        loading="lazy"
-      ></iframe>
+  src="https://tfms.xyz/firestick/sites/jwplayer.html"
+  style="width:100%; height:400px; border:0;"
+  loading="lazy"
+  allow="fullscreen"
+  allowfullscreen
+></iframe>
     </div>
 
     <!-- CLAPPR PLAYER -->
     <div class="settings-box" style="padding:0; overflow:hidden;">
 
       <iframe
-        src="https://tfms.xyz/firestick/sites/clapprplayer.html"
-        style="width:100%; height:400px; border:0;"
-        loading="lazy"
-      ></iframe>
+  src="https://tfms.xyz/firestick/sites/clapprplayer.html"
+  style="width:100%; height:400px; border:0;"
+  loading="lazy"
+  allow="fullscreen"
+  allowfullscreen
+></iframe>
     </div>
 
   </div>
@@ -2349,8 +2353,28 @@ function importFromUrl() {
   document.getElementById('remoteM3uUrl').value = '';
   document.getElementById('remoteCategory').value = '';
 }
-</script>
 
+jwplayer("player").setup({
+  file: "YOUR_STREAM_URL",
+  width: "100%",
+  height: "100%",
+  stretching: "uniform",
+  autostart: true,
+  primary: "html5",
+  fullscreen: true
+});
+
+var player = new Clappr.Player({
+  source: "YOUR_STREAM_URL",
+  parentId: "#player",
+  width: "100%",
+  height: "100%",
+  autoPlay: true,
+  plugins: [Clappr.FlasHLS, Clappr.MediaControl],
+  fullscreenEnabled: true
+});
+</script>
+<div id="player" style="width:100%; height:100%;"></div>
 </body>
 </html>
 `;
