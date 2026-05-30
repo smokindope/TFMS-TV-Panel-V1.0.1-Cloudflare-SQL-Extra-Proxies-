@@ -1746,16 +1746,6 @@ button:hover{background:#1d4ed8}
           Add New Stream
         </button>
 
-        <br><br>
-        <u>OPTIONAL</u><br>
-        To add an image use the category input field
-        <br>
-
-        Example:
-          Sports|https://logos.com/sky-sports.png
-
-        <br><br>
-
         <button
           id="cancelStreamBtn"
           style="display:none; background:#64748b"
@@ -1763,6 +1753,15 @@ button:hover{background:#1d4ed8}
         >
           Cancel
         </button>
+
+        <br><br>
+
+        <u>OPTIONAL</u><br>
+        To add an image use the category input field
+        <br>
+
+        Example:
+          Sports|https://logos.com/sky-sports.png
 
       </div>
 
