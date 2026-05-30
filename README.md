@@ -4,7 +4,7 @@ A lightweight, fast, and easy-to-deploy IPTV management panel hosted on Cloudfla
 
 ## 📖 Installation & Demo
 For a complete step-by-step installation guide and live demo, please visit the official tutorial link:
-👉 ** <a href="https://tfms.xyz/firestick/core/tuts/tfms-tv-panel-v1-0-1.TUT.GUIDE.html" target="_blank">[Full Installation Guide & Demo]</a>
+👉 ** <a href="https://tfms.xyz/firestick/core/tuts/tfms-tv-panel-v1-0-1.TUT.GUIDE.html" target="_blank">[Full Installation Guide & Demo]</a> <strong>Username: admin | Password: SecretPassword123</strong>
 
 ---
 
