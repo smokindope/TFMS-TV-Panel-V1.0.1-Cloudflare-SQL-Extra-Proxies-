@@ -1508,8 +1508,8 @@ button:hover{background:#1d4ed8}
 
 <div class="xc-card green" style="height:400px; display:flex; flex-direction:column; justify-content:center; gap:12px;">
 
-<button class="quick-btn" onclick="window.open('https://tfms.xyz/firestick/mark/apks.html','_blank')">
-  🌐 Applications
+<button class="quick-btn" onclick="window.open('https://tfms-browser.rzvaldpwgwymnhdshn.workers.dev/','_blank')">
+  🌐 TFMS Anon Browser
 </button>
 
 <button class="quick-btn" onclick="window.open('https://tfms.xyz/firestick/mark/webtv.html','_blank')">
@@ -2377,7 +2377,6 @@ var player = new Clappr.Player({
 </body>
 </html>
 `;
-
     return new Response(html, { headers: { "Content-Type": "text/html" } });
   }
 };
