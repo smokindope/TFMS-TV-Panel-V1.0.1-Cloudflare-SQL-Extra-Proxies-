@@ -3,7 +3,7 @@
 A lightweight, fast, and easy-to-deploy IPTV management panel hosted on Cloudflare Workers, utilizing Cloudflare D1 SQL for user and stream data storage.
 
 ## 📖 Installation & Demo
-For a complete step-by-step installation guide and live demo, please visit the official tutorial link:
+For a complete step-by-step installation guide and live demo, please visit the official tutorial link:<br>
 👉 ** <a href="https://tfms.xyz/firestick/core/tuts/tfms-tv-panel-v1-0-1.TUT.GUIDE.html" target="_blank">[Full Installation Guide & Demo]</a><br>Demo Login Info <strong>Username: admin | Password: SecretPassword123</strong>
 
 ---
