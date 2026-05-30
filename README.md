@@ -13,12 +13,13 @@ For a complete step-by-step installation guide and live demo, please visit the o
 * **Cloudflare Hosted:** Runs entirely on Cloudflare Workers using standard `.js`.
 * **D1 SQL Database:** Fast, secure storage for user details, streams, and proxies.
 * **Proxy Management:** Dedicated section to easily add, create, and scale more proxies.
+* **Choose Proxy To Use:** In the userline management page (Use the proxy dropdown menu).
 * **Quick Deploy:** Fully functional and ready to deploy in under 2 minutes.
 * **Lightweight & Fast:** Minimal footprint with a highly responsive user interface.
 * **Full CRUD Control:** Effortlessly add, remove, and edit users, streams, and proxies.
 * **Custom Playlists:** Create personal, tailored playlists for any user.
 * **Access Control:** Set explicit playlist connection limits and expiration dates.
-
+* **Link Formtter & Analyzer:** Check playlist status & Convert from .ts to .m3u8 or vice versa.
 ---
 
 ## ⚠️ Important Information
