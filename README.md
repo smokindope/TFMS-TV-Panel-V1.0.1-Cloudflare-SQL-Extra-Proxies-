@@ -1,24 +1,49 @@
-<center><h1><b><u>TFMS IPTV Panel v1.0.1 With D1 SQL & Add & Create More Proxies Section</u></b></h1></center>
-<b>For a full install guide with DEMO</b> <a href="https://tfms.xyz/firestick/core/tuts/tfms-tv-panel-v1-0-1.TUT.GUIDE.html">See Here</a><br><br>
-<h2><b>Cloudflare Hosted</b></h2>
-.JS With D1 Database for storing your user details<br>
-With add more proxies section<br>
-Easy To Deploy in under 2 minutes<br>
-Lightweight fast & very usable<br>
-Add/Remove/Edit Users/Streams & proxies<br>
-Create Personal Playlists for anyone!<br>
-Set Playlist connection limits & expiry dates<br><br>
-<b>No streams</b> come preinstalled on this panel<br>
-<b>However</b> i have added a Get Stream link where you can find some streams to use<br>
-<b>Note: Only use streams that have a good connection limit!<br>This panel plays direct streams through a proxy & does not restream</b>
-<h2><b>It is upto you to use this application responsibly</b></h2>
+# TFMS IPTV Panel v1.0.1 (with D1 SQL & Proxy Management)
 
-<img width="1257" height="807" alt="1" src="https://github.com/user-attachments/assets/949b2333-2b1d-437d-adba-a994a9100425" />
+A lightweight, fast, and easy-to-deploy IPTV management panel hosted on Cloudflare Workers, utilizing Cloudflare D1 SQL for user and stream data storage.
 
-<img width="1257" height="845" alt="2" src="https://github.com/user-attachments/assets/9ae5a4fe-2bc1-45c9-a519-4780d83cb37b" />
+## 📖 Installation & Demo
+For a complete step-by-step installation guide and live demo, please visit the official tutorial link:
+👉 ** <a href="https://tfms.xyz/firestick/core/tuts/tfms-tv-panel-v1-0-1.TUT.GUIDE.html" target="_blank">[Full Installation Guide & Demo]</a>
 
-<img width="1257" height="1183" alt="3" src="https://github.com/user-attachments/assets/ac4bb600-4bc2-4626-b684-f1d91228ed50" />
+---
 
-<img width="1257" height="1805" alt="4" src="https://github.com/user-attachments/assets/045d10ec-331c-4fbc-a778-9bcfd94b3064" />
+## ⚡ Features
 
-<img width="1257" height="3406" alt="5" src="https://github.com/user-attachments/assets/ac43a02a-84fd-406d-8cc2-e64f73047fed" />
+* **Cloudflare Hosted:** Runs entirely on Cloudflare Workers using standard `.js`.
+* **D1 SQL Database:** Fast, secure storage for user details, streams, and proxies.
+* **Proxy Management:** Dedicated section to easily add, create, and scale more proxies.
+* **Quick Deploy:** Fully functional and ready to deploy in under 2 minutes.
+* **Lightweight & Fast:** Minimal footprint with a highly responsive user interface.
+* **Full CRUD Control:** Effortlessly add, remove, and edit users, streams, and proxies.
+* **Custom Playlists:** Create personal, tailored playlists for any user.
+* **Access Control:** Set explicit playlist connection limits and expiration dates.
+
+---
+
+## ⚠️ Important Information
+
+* **No Built-in Streams:** This panel does **not** come pre-installed with any media streams.
+* **Stream Sources:** A "Get Stream" link is included in the panel to help you find streams to use.
+* **Connection Limits:** Ensure the streams you source have a generous connection limit.
+* **Direct Proxying:** This panel plays direct streams through a proxy. It **does not restream** or transcode media content.
+* **Responsibility:** It is entirely your responsibility to use this application legally and responsibly.
+
+---
+
+## 📸 Screenshots
+
+### 1. Dashboard Overview
+<img width="1257" height="807" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/949b2333-2b1d-437d-adba-a994a9100425" />
+
+### 2. User Management
+<img width="1257" height="845" alt="User Management" src="https://github.com/user-attachments/assets/9ae5a4fe-2bc1-45c9-a519-4780d83cb37b" />
+
+### 3. Streams & VOD
+<img width="1257" height="1183" alt="Proxy Configuration" src="https://github.com/user-attachments/assets/ac4bb600-4bc2-4626-b684-f1d91228ed50" />
+
+### 4. Proxy Settings
+<img width="1257" height="1805" alt="Stream Settings" src="https://github.com/user-attachments/assets/045d10ec-331c-4fbc-a778-9bcfd94b3064" />
+
+### 5. Tools & Settings
+<img width="1257" height="3406" alt="Playlist Creation" src="https://github.com/user-attachments/assets/ac43a02a-84fd-406d-8cc2-e64f73047fed" />
